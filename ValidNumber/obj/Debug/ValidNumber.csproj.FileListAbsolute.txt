@@ -1,0 +1,7 @@
+C:\Users\shahe\source\repos\ValidNumber\ValidNumber\obj\Debug\ValidNumber.csprojAssemblyReference.cache
+C:\Users\shahe\source\repos\ValidNumber\ValidNumber\obj\Debug\ValidNumber.csproj.CoreCompileInputs.cache
+C:\Users\shahe\source\repos\ValidNumber\ValidNumber\bin\Debug\ValidNumber.exe.config
+C:\Users\shahe\source\repos\ValidNumber\ValidNumber\bin\Debug\ValidNumber.exe
+C:\Users\shahe\source\repos\ValidNumber\ValidNumber\bin\Debug\ValidNumber.pdb
+C:\Users\shahe\source\repos\ValidNumber\ValidNumber\obj\Debug\ValidNumber.exe
+C:\Users\shahe\source\repos\ValidNumber\ValidNumber\obj\Debug\ValidNumber.pdb
